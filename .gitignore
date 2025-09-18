@@ -27,5 +27,3 @@ Thumbs.db
 .firebase/
 firebase-debug.log
 
-# Claude Code
-.claude/
